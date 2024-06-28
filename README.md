@@ -10,7 +10,7 @@ Together, let's build the best Open Source Athena map for everyone to use and mo
 
 # Getting Started:
 Clone this repository.
-Open the project in a compatible version of Unreal Engine for Fortnite.
+Open the project in UEFN.
 Explore the existing map layout and familiarize yourself with the structure.
 Unleash your creativity and customize the map to your vision!
 We look forward to your contributions!
