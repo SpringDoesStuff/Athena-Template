@@ -4,7 +4,7 @@ This repository provides a foundational UEFN (Unreal Engine for Fornite) map tem
 This project thrives on collaboration! We encourage you to:
 
 Fork the repository to create your own Chapter 1 inspired maps.
-Make Pull Requests (PRs) to contribute new features, locations, or improvements to the base template.
+Make Pull Requests (PRs) to contribute new locations, or improvements to the base template.
 Discuss and share ideas in the Issues section.
 Together, let's build the best Open Source Athena map for everyone to use and modify!
 
@@ -13,7 +13,7 @@ Clone this repository.
 Open the project in UEFN.
 Explore the existing map layout and familiarize yourself with the structure.
 Unleash your creativity and customize the map to your vision!
-We look forward to your contributions!
+We look forward to your contributions and creations!
 
 # RELEASING SOON
 
