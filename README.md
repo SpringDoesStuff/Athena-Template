@@ -1,4 +1,4 @@
-This repository provides a foundational UEFN (Unreal Engine for Fornite) map template replicating the core layout of the Fortnite Chapter 1 Athena map during Season 4 or other seasons.
+This repository provides a UEFN (Unreal Engine for Fornite) map template replicating the core layout of the Fortnite Chapter 1 Season 4 Athena Map
 
 # Built for the Community:
 This project thrives on collaboration! We encourage you to:
@@ -15,6 +15,6 @@ Explore the existing map layout and familiarize yourself with the structure.
 Unleash your creativity and customize the map to your vision!
 We look forward to your contributions and creations!
 
-# RELEASING SOON
+# COMING SOON
 
 ![image](https://github.com/SpringDoesStuff/Athena-Template/assets/155735484/f83436cd-6bf2-43e8-8069-2b1156b8f4b5)
